@@ -34,4 +34,4 @@ __pycache__/
 # --- lectures/: keep compiled PDFs only, not the source ---
 lectures/**/*.tex
 lectures/**/*.bib
-lectures/activation_plots/
+lectures/*/
